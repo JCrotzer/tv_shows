@@ -1,0 +1,32 @@
+.container {
+    width: 800px;
+    padding: 50px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.links {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+a {
+    margin: 5px;
+}
+
+.edit_show {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+}
